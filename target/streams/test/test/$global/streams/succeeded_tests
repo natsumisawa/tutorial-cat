@@ -1,0 +1,29 @@
+#Successful Tests
+#Mon Mar 26 00:05:15 JST 2018
+com.danielasfregola.tutorial.cat.monoid.IntMonoidSpec=1521348452919
+com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-4=1521990315063
+com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-3=1521990314986
+com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-2=1521990314971
+com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-4=1521990315014
+com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-1=1521990315093
+com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-3=1521990315103
+com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec=1521990314506
+com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-2=1521990315090
+com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-0=1521990315130
+com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-1=1521990315057
+com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-0=1521990315077
+com.danielasfregola.tutorial.cat.monoid.StringMonoidSpec=1521348452919
+com.danielasfregola.tutorial.cat.monoid.IntMonoidSpec-2=1521348453345
+com.danielasfregola.tutorial.cat.monoid.IntMonoidSpec-1=1521348453372
+com.danielasfregola.tutorial.cat.monoid.IntMonoidSpec-0=1521348453363
+com.danielasfregola.tutorial.cat.functor.ZeroOrMoreFunctorSpec-2=1521606559065
+com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec=1521990314505
+com.danielasfregola.tutorial.cat.functor.ZeroOrMoreFunctorSpec-1=1521606559009
+com.danielasfregola.tutorial.cat.functor.ZeroOrMoreFunctorSpec-0=1521606559035
+com.danielasfregola.tutorial.cat.monoid.StringMonoidSpec-2=1521348453455
+com.danielasfregola.tutorial.cat.monoid.StringMonoidSpec-1=1521348453421
+com.danielasfregola.tutorial.cat.monoid.StringMonoidSpec-0=1521348453438
+com.danielasfregola.tutorial.cat.functor.MaybeFunctorSpec-2=1521606558837
+com.danielasfregola.tutorial.cat.functor.MaybeFunctorSpec-1=1521606558837
+com.danielasfregola.tutorial.cat.functor.MaybeFunctorSpec=1521606558130
+com.danielasfregola.tutorial.cat.functor.MaybeFunctorSpec-0=1521606558837

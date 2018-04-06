@@ -1,0 +1,16 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-1, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-0, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-4, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-2, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec-3, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-4, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-1, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-0, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-2, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec-3, org.scalacheck.ScalaCheckFramework$$anon$3@41e162ac, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mPassed: Total 14, Failed 0, Errors 0, Passed 14[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.danielasfregola.tutorial.cat.applicative.ZeroOrMoreApplicativeSpec[0m
+[0m[[0mdebug[0m] [0m	com.danielasfregola.tutorial.cat.applicative.MaybeApplicativeSpec[0m

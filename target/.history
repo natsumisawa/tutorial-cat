@@ -1,0 +1,4 @@
+'testOnly *Monoid*'
+testOnly *Monoid*
+testOnly *Functor*
+testOnly *Applicative*
